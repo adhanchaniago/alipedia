@@ -1,7 +1,7 @@
 # alipedia
 Online Shop - Marketplace
 
-Program Language: Bootstrap,PHP,Code Igniter,Mysql
+Program Language: Bootstrap, PHP, Code Igniter, Mysql
 
 Screenshot Goals:
 
